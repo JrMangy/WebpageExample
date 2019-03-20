@@ -1,0 +1,50 @@
+h1 {
+    color: crimson;   
+    text-align: center;
+    font-size: 48;
+    }
+body {
+    background-color: darkslategrey;
+    }   
+li {
+    color: white;}
+    
+
+img {
+    width: "400";
+    height: "300";}
+a.visited:visited, a.visited:active {
+    color: burlywood;
+    background: transparent;
+    font-size: 36;
+}
+
+a.hover:hover, a.hover:active{
+    color: aquamarine;
+    background: transparent;
+    font-size: 150%
+    }
+p.footer {
+    text-align: center;
+    color: whitesmoke;
+    font: 48;
+  }
+ /* li.linktext{  
+    color: aquamarine;
+    background: transparent;
+    }
+ li.hover{ 
+    color: burlywood;
+    background: transparent;
+    }
+    a:visited{
+                color: aquamarine;
+                background: transparent;
+            }
+            a:hover{
+                color: burlywood;
+                background: transparent;
+            }
+    
+    
+    */
